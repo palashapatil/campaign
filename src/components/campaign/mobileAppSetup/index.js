@@ -81,9 +81,10 @@ export default function MobileAppSetup() {
         <BootstrapInput placeholder="Write a short description for your campaign" id="Description" />
       </FormControl>
       <br/>
-      <hr />
+      
     
     </Box>
+    <hr/>
 
     <Box
       component="form"
@@ -124,7 +125,6 @@ export default function MobileAppSetup() {
             <input type="file" onChange={handleChange} />
       </FormControl>
       <hr />
-    
     </Box>
     </>
    
