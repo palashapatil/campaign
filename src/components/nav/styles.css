@@ -1,0 +1,21 @@
+.tab_container {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.status_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 25%;
+}
+
+.text_style {
+    font-size: 14px;
+}
+
+.switch_container {
+    display: flex;
+    width: 45%;
+}
